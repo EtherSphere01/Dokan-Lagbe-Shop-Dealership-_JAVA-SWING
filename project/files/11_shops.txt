@@ -1,0 +1,144 @@
+Shop Details
+MiniMart
+1200X700
+B003
+17000
+Badda
+images/minimart.png
+
+Shop Details
+Beauty Parlour
+950X650
+B105
+11000
+Shantinagar
+images/parlour.png
+
+Shop Details
+MiniMart
+1200X700
+B003
+17000
+Badda
+images/minimart.png
+
+Shop Details
+Theater
+1800X1600
+D098
+52000
+Kuril
+images/theater.png
+
+Shop Details
+Cafe 2
+asdf 
+a sdfa  a
+asd asdffa  asdf
+asdf
+images/theater.png
+
+Shop Details
+aasdf
+asdf
+asdf
+asdf
+asdf
+asdfadf
+
+Shop Details
+Pharmacy
+890X650
+D123
+12000
+Mirpur Dhaka
+C:\Users\Popy\Desktop\pharma.jpg
+
+Shop Details
+Pharmacy
+975X560
+C0231
+3000
+Shantinagar Dhaka
+images/pharma.jpg
+
+Shop Details
+Book Stall
+500X400
+D099
+6500
+Bashundhara
+images/book.png
+
+Shop Details
+Beauty Parlour
+950X650
+B105
+11000
+Shantinagar
+images/parlour.png
+
+Shop Details
+MiniMart
+1200X700
+B003
+17000
+Badda
+images/minimart.png
+
+Shop Details
+Book Stall
+500X400
+D099
+6500
+Bashundhara
+images/book.png
+
+Shop Details
+Pharmacy
+975X560
+C0231
+3000
+Shantinagar Dhaka
+images/pharma.jpg
+
+Shop Details
+Beauty Parlour
+950X650
+B105
+11000
+Shantinagar
+images/parlour.png
+
+Shop Details
+Beauty Parlour
+950X650
+B105
+11000
+Shantinagar
+images/parlour.png
+
+Shop Details
+Book Stall
+500X400
+D099
+6500
+Bashundhara
+images/book.png
+
+Shop Details
+Pharmacy
+975X560
+C0231
+3000
+Shantinagar Dhaka
+images/pharma.jpg
+
+Shop Details
+Book Stall
+500X400
+D099
+6500
+Bashundhara
+images/book.png
+

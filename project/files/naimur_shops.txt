@@ -1,0 +1,24 @@
+Shop Details
+Theater2
+1600X1400
+G887
+72000
+Airport
+images/theater.png
+
+Shop Details
+Beauty Parlour2
+650X450
+U678
+16000
+Bashundhara
+images/parlour.png
+
+Shop Details
+MiniMart2
+1500X800
+X667
+14000
+Banani
+images/minimart.png
+
