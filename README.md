@@ -1,4 +1,4 @@
-# OOP1_Summer-Project-2021-2022_Group-6
+# OOP1_Summer-Project-2021-2022
 #AIUB
 Course : OOP 1
 Section : E
