@@ -1,4 +1,4 @@
-# OOP1_Summer-Project-2021-2022
+# Java Swing Project
 #AIUB
 
 Course : OOP 1
