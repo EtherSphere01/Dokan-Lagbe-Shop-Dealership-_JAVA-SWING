@@ -52,3 +52,5 @@ The project integrates with a database system to store and retrieve user informa
 Benefits:
 
 The Shop Dealership Management System simplifies the shopping and management process for both customers and administrators. It enhances the shopping experience for users while providing administrators with the tools they need to efficiently manage the system. This project serves as an excellent example of how Java and Java Swing can be used to create a practical and user-friendly application for shop dealership management.
+![image](https://github.com/EtherSphere01/Dokan-Lagbe-Shop-Dealership-_JAVA-SWING/assets/84018165/ecce8f6b-f82f-4378-9864-23c2629f369d)
+
